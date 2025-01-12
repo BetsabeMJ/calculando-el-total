@@ -24,3 +24,6 @@ restar.addEventListener("click", () => {
   valorTotal.innerHTML = numero * precio;
   console.log(valorTotal);
 });
+// NOTA PARA EL PROFE DIEGO:
+// Le envíe un mensaje por el slack pero me pareció pertinente dejar una nota aquí.
+// La profe Alba nos mencionó que esta actividad la podríamos realizar de manera individual, sólo que le avisaramos por mensaje.
